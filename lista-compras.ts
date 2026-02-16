@@ -20,7 +20,5 @@ export class ListaCompras {
     this.lista.push(itemLista);
 
     this.item = '';
-
-    console.table(this.lista);
   }
 }
